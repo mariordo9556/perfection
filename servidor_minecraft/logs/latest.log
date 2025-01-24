@@ -4192,3 +4192,55 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Jan2025 13:51:44.342] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2367, l='ServerLevel[world]', x=-1.78, y=115.00, z=207.18] died, message: 'Villager was slain by XxRTXxX'
 [24Jan2025 13:51:45.793] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2425, l='ServerLevel[world]', x=0.05, y=115.00, z=209.27] died, message: 'Villager was slain by XxRTXxX'
 [24Jan2025 13:51:47.097] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2451, l='ServerLevel[world]', x=0.56, y=115.00, z=205.36] died, message: 'Villager was slain by XxRTXxX'
+[24Jan2025 13:52:35.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sangredel9: Teleported Sangredel9 to XxRTXxX]
+[24Jan2025 13:53:13.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 was doomed to fall by XxRTXxX
+[24Jan2025 13:53:13.403] [Server thread/INFO] [tombstone/]: The player Sangredel9 has successfully been saved
+[24Jan2025 13:53:34.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sangredel9 was kicked for floating too long!
+[24Jan2025 13:53:34.181] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sangredel9 lost connection: Flying is not enabled on this server
+[24Jan2025 13:53:34.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 left the game
+[24Jan2025 13:53:34.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX fell from a high place
+[24Jan2025 13:53:34.342] [Server thread/INFO] [tombstone/]: The player XxRTXxX has successfully been saved
+[24Jan2025 13:53:43.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX has reached the goal [A Fast Comeback]
+[24Jan2025 13:53:48.461] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sangredel9[/127.137.233.244:33999] logged in with entity id 8429 at (2.3590233426445595, 89.65700979089183, 171.52149942164934)
+[24Jan2025 13:53:48.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 joined the game
+[24Jan2025 13:54:02.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX has made the advancement [Acquire Hardware]
+[24Jan2025 13:54:42.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sangredel9: Teleported Sangredel9 to XxRTXxX]
+[24Jan2025 13:55:12.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 was slain by XxRTXxX
+[24Jan2025 13:55:12.373] [Server thread/INFO] [tombstone/]: The player Sangredel9 has successfully been saved
+[24Jan2025 13:55:14.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX has made the advancement [Monster Hunter]
+[24Jan2025 13:55:16.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sangredel9: Teleported Sangredel9 to XxRTXxX]
+[24Jan2025 13:56:14.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 has made the advancement [Ice Bucket Challenge]
+[24Jan2025 13:56:46.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 was burnt to a crisp whilst fighting Skeleton
+[24Jan2025 13:56:46.844] [Server thread/INFO] [tombstone/]: The player Sangredel9 has successfully been saved
+[24Jan2025 13:56:49.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sangredel9: Teleported Sangredel9 to XxRTXxX]
+[24Jan2025 13:56:54.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX was shot by Skeleton
+[24Jan2025 13:56:54.690] [Server thread/INFO] [tombstone/]: The player XxRTXxX has successfully been saved
+[24Jan2025 13:57:02.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sangredel9: Teleported XxRTXxX to Sangredel9]
+[24Jan2025 13:57:10.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sangredel9 moved wrongly!
+[24Jan2025 13:57:11.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 has made the advancement [Knowledge of Death]
+[24Jan2025 13:57:11.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 has reached the goal [Discreet Search]
+[24Jan2025 13:57:14.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 has reached the goal [Chain Death]
+[24Jan2025 13:57:14.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 was slain by XxRTXxX
+[24Jan2025 13:57:14.131] [Server thread/INFO] [tombstone/]: The player Sangredel9 has successfully been saved
+[24Jan2025 13:57:16.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sangredel9: Teleported Sangredel9 to XxRTXxX]
+[24Jan2025 13:58:15.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sangredel9: Set own game mode to Creative Mode]
+[24Jan2025 13:58:28.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sangredel9: Set own game mode to Survival Mode]
+[24Jan2025 13:59:36.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX has made the advancement [Take Aim]
+[24Jan2025 13:59:47.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX was shot by XxRTXxX
+[24Jan2025 13:59:47.738] [Server thread/INFO] [tombstone/]: The player XxRTXxX has successfully been saved
+[24Jan2025 14:00:03.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XxRTXxX was kicked for floating too long!
+[24Jan2025 14:00:03.981] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XxRTXxX lost connection: Flying is not enabled on this server
+[24Jan2025 14:00:03.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX left the game
+[24Jan2025 14:00:21.803] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XxRTXxX[/127.138.68.162:51383] logged in with entity id 10229 at (31.2172866519182, 98.28549238931866, 142.68443050022023)
+[24Jan2025 14:00:21.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX joined the game
+[24Jan2025 14:00:33.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XxRTXxX was kicked for floating too long!
+[24Jan2025 14:00:33.379] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XxRTXxX lost connection: Flying is not enabled on this server
+[24Jan2025 14:00:33.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX left the game
+[24Jan2025 14:00:48.950] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XxRTXxX[/127.138.68.162:53049] logged in with entity id 10392 at (36.35903520201478, 83.21204265723162, 134.30816398102607)
+[24Jan2025 14:00:48.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX joined the game
+[24Jan2025 14:01:18.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sangredel9: Teleported XxRTXxX to Sangredel9]
+[24Jan2025 14:01:37.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sangredel9: Teleported XxRTXxX to Sangredel9]
+[24Jan2025 14:01:50.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 was shot by XxRTXxX
+[24Jan2025 14:01:50.977] [Server thread/INFO] [tombstone/]: The player Sangredel9 has successfully been saved
+[24Jan2025 14:01:59.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX was slain by Sangredel9
+[24Jan2025 14:01:59.831] [Server thread/INFO] [tombstone/]: The player XxRTXxX has successfully been saved
