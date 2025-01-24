@@ -4135,3 +4135,60 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Jan2025 13:40:25.976] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XxRTXxX[/127.138.68.162:44017] logged in with entity id 4159 at (15.0744007716017, 80.34307163882262, 58.152384729686204)
 [24Jan2025 13:40:25.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX joined the game
 [24Jan2025 13:40:33.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sangredel9: Teleported XxRTXxX to Sangredel9]
+[24Jan2025 13:41:01.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX has made the advancement [People Are Strange]
+[24Jan2025 13:41:04.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 has made the advancement [People Are Strange]
+[24Jan2025 13:41:13.918] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[24Jan2025 13:41:19.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 has made the advancement [Suit Up]
+[24Jan2025 13:41:24.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 was shot by Pillager
+[24Jan2025 13:41:24.754] [Server thread/INFO] [tombstone/]: The player Sangredel9 has successfully been saved
+[24Jan2025 13:41:27.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[24Jan2025 13:41:28.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sangredel9: Teleported Sangredel9 to XxRTXxX]
+[24Jan2025 13:41:30.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 has reached the goal [Here They Come]
+[24Jan2025 13:41:47.436] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[24Jan2025 13:41:48.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX has made the advancement [Magic Writing]
+[24Jan2025 13:41:52.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX was shot by Pillager
+[24Jan2025 13:41:52.595] [Server thread/INFO] [tombstone/]: The player XxRTXxX has successfully been saved
+[24Jan2025 13:41:56.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX has reached the goal [Here They Come]
+[24Jan2025 13:41:57.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX has made the advancement [Suit Up]
+[24Jan2025 13:42:33.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX has made the advancement [Knowledge of Death]
+[24Jan2025 13:42:33.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX has reached the goal [Chain Death]
+[24Jan2025 13:42:33.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX was slain by Vindicator
+[24Jan2025 13:42:33.097] [Server thread/INFO] [tombstone/]: The player XxRTXxX has successfully been saved
+[24Jan2025 13:42:36.594] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[24Jan2025 13:42:40.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX was slain by Vindicator
+[24Jan2025 13:42:41.005] [Server thread/INFO] [tombstone/]: The player XxRTXxX has successfully been saved
+[24Jan2025 13:42:45.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sangredel9: Set own game mode to Creative Mode]
+[24Jan2025 13:45:04.783] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/1707, l='ServerLevel[world]', x=-65.48, y=86.00, z=162.13] died, message: 'Fisherman was shot by Pillager'
+[24Jan2025 13:45:08.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sangredel9: Set the weather to rain & thunder]
+[24Jan2025 13:45:33.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX has reached the goal [Great minds think alike]
+[24Jan2025 13:46:13.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX has made the advancement [Knowledge raises the soul]
+[24Jan2025 13:46:32.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sangredel9: Gamerule keepInventory is now set to: false]
+[24Jan2025 13:47:29.347] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[24Jan2025 13:47:52.067] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[24Jan2025 13:47:52.079] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[24Jan2025 13:47:52.079] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[24Jan2025 13:47:52.083] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[24Jan2025 13:47:52.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sangredel9: Set own game mode to Survival Mode]
+[24Jan2025 13:47:54.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sangredel9: Teleported XxRTXxX to Sangredel9]
+[24Jan2025 13:47:59.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX has made the advancement [Sweet Dreams]
+[24Jan2025 13:48:03.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 has made the advancement [Sweet Dreams]
+[24Jan2025 13:48:05.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sangredel9> zzzzzzzzzzzzzzzz
+[24Jan2025 13:48:35.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 was slain by XxRTXxX
+[24Jan2025 13:48:35.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 has made the advancement [Your First Grave]
+[24Jan2025 13:48:35.781] [Server thread/INFO] [tombstone/]: The player Sangredel9 has successfully been saved
+[24Jan2025 13:48:57.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX has made the advancement [Mutual Aid]
+[24Jan2025 13:48:57.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX has reached the goal [Traveling lightning rod]
+[24Jan2025 13:49:25.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4161ms or 83 ticks behind
+[24Jan2025 13:49:58.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX was slain by Sangredel9
+[24Jan2025 13:49:58.554] [Server thread/INFO] [tombstone/]: The player XxRTXxX has successfully been saved
+[24Jan2025 13:49:59.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX has made the advancement [The Most Useful Key]
+[24Jan2025 13:50:46.203] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[24Jan2025 13:50:54.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 has made the advancement [Acquire Hardware]
+[24Jan2025 13:50:59.767] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[24Jan2025 13:50:59.767] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[24Jan2025 13:51:32.410] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2450, l='ServerLevel[world]', x=5.70, y=126.05, z=234.51] died, message: 'Villager was slain by XxRTXxX'
+[24Jan2025 13:51:32.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX has made the advancement [Neighborhood Brawl]
+[24Jan2025 13:51:40.032] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1625, l='ServerLevel[world]', x=3.07, y=115.00, z=212.07] died, message: 'Villager was slain by XxRTXxX'
+[24Jan2025 13:51:44.342] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2367, l='ServerLevel[world]', x=-1.78, y=115.00, z=207.18] died, message: 'Villager was slain by XxRTXxX'
+[24Jan2025 13:51:45.793] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2425, l='ServerLevel[world]', x=0.05, y=115.00, z=209.27] died, message: 'Villager was slain by XxRTXxX'
+[24Jan2025 13:51:47.097] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2451, l='ServerLevel[world]', x=0.56, y=115.00, z=205.36] died, message: 'Villager was slain by XxRTXxX'
