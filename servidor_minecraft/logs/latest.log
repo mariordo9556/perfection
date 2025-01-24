@@ -4244,3 +4244,93 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Jan2025 14:01:50.977] [Server thread/INFO] [tombstone/]: The player Sangredel9 has successfully been saved
 [24Jan2025 14:01:59.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX was slain by Sangredel9
 [24Jan2025 14:01:59.831] [Server thread/INFO] [tombstone/]: The player XxRTXxX has successfully been saved
+[24Jan2025 14:02:08.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 was slain by XxRTXxX
+[24Jan2025 14:02:08.189] [Server thread/INFO] [tombstone/]: The player Sangredel9 has successfully been saved
+[24Jan2025 14:02:42.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 has made the advancement [Isn't It Iron Pick]
+[24Jan2025 14:02:47.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sangredel9> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[24Jan2025 14:02:50.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sangredel9> jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+[24Jan2025 14:03:04.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX was slain by Sangredel9
+[24Jan2025 14:03:04.150] [Server thread/INFO] [tombstone/]: The player XxRTXxX has successfully been saved
+[24Jan2025 14:03:23.577] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/2452, l='ServerLevel[world]', x=37.70, y=121.00, z=247.51] died, message: 'Beekeeper was slain by The Hunter'
+[24Jan2025 14:03:39.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 was slain by XxRTXxX
+[24Jan2025 14:03:39.983] [Server thread/INFO] [tombstone/]: The player Sangredel9 has successfully been saved
+[24Jan2025 14:04:34.935] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/8287, l='ServerLevel[world]', x=30.57, y=121.00, z=239.61] died, message: 'Beekeeper was slain by The Hunter'
+[24Jan2025 14:05:16.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 was slain by XxRTXxX
+[24Jan2025 14:05:16.622] [Server thread/INFO] [tombstone/]: The player Sangredel9 has successfully been saved
+[24Jan2025 14:05:45.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 was slain by XxRTXxX
+[24Jan2025 14:05:45.478] [Server thread/INFO] [tombstone/]: The player Sangredel9 has successfully been saved
+[24Jan2025 14:05:52.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX was slain by Sangredel9
+[24Jan2025 14:05:52.636] [Server thread/INFO] [tombstone/]: The player XxRTXxX has successfully been saved
+[24Jan2025 14:05:59.876] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/8294, l='ServerLevel[world]', x=98.03, y=120.00, z=193.57] died, message: 'Nitwit was slain by Tiger'
+[24Jan2025 14:06:48.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX was slain by Sangredel9
+[24Jan2025 14:06:48.329] [Server thread/INFO] [tombstone/]: The player XxRTXxX has successfully been saved
+[24Jan2025 14:06:56.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 was slain by XxRTXxX
+[24Jan2025 14:06:56.128] [Server thread/INFO] [tombstone/]: The player Sangredel9 has successfully been saved
+[24Jan2025 14:07:10.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX was slain by Sangredel9
+[24Jan2025 14:07:10.525] [Server thread/INFO] [tombstone/]: The player XxRTXxX has successfully been saved
+[24Jan2025 14:07:20.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 was slain by XxRTXxX
+[24Jan2025 14:07:20.725] [Server thread/INFO] [tombstone/]: The player Sangredel9 has successfully been saved
+[24Jan2025 14:08:03.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 was slain by XxRTXxX
+[24Jan2025 14:08:04.071] [Server thread/INFO] [tombstone/]: The player Sangredel9 has successfully been saved
+[24Jan2025 14:08:18.945] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/1620, l='ServerLevel[world]', x=26.23, y=110.45, z=186.70] died, message: 'Beekeeper was slain by XxRTXxX'
+[24Jan2025 14:08:45.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sangredel9> asdasd
+[24Jan2025 14:08:45.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX has made the advancement [Ambush]
+[24Jan2025 14:08:47.685] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/1703, l='ServerLevel[world]', x=9.62, y=77.00, z=143.70] died, message: 'Fisherman was shot by Pillager'
+[24Jan2025 14:08:58.561] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[24Jan2025 14:08:58.562] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[24Jan2025 14:08:59.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sangredel9: Set own game mode to Creative Mode]
+[24Jan2025 14:09:03.662] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=35, z=-536}
+[24Jan2025 14:09:03.664] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=35, z=-537}
+[24Jan2025 14:09:03.664] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=35, z=-535}
+[24Jan2025 14:09:03.665] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=27, z=-539}
+[24Jan2025 14:09:03.665] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=27, z=-533}
+[24Jan2025 14:09:03.666] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=34, z=-537}
+[24Jan2025 14:09:03.667] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=34, z=-536}
+[24Jan2025 14:09:03.667] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=34, z=-535}
+[24Jan2025 14:09:03.668] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=35, z=-537}
+[24Jan2025 14:09:03.668] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=35, z=-536}
+[24Jan2025 14:09:03.669] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=35, z=-535}
+[24Jan2025 14:09:09.539] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-629}
+[24Jan2025 14:09:09.539] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-629}
+[24Jan2025 14:09:09.540] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-629}
+[24Jan2025 14:09:09.540] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-624}
+[24Jan2025 14:09:09.540] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-624}
+[24Jan2025 14:09:09.540] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-624}
+[24Jan2025 14:09:09.540] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-629}
+[24Jan2025 14:09:09.541] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-629}
+[24Jan2025 14:09:09.541] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-624}
+[24Jan2025 14:09:09.541] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-624}
+[24Jan2025 14:09:11.733] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[24Jan2025 14:09:11.733] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[24Jan2025 14:09:12.870] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=30, z=-594}
+[24Jan2025 14:09:12.870] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=29, z=-593}
+[24Jan2025 14:09:12.871] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-338, y=29, z=-593}
+[24Jan2025 14:09:12.871] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-340, y=30, z=-591}
+[24Jan2025 14:09:12.871] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-591}
+[24Jan2025 14:09:12.871] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-592}
+[24Jan2025 14:09:12.871] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-590}
+[24Jan2025 14:09:12.872] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=29, z=-589}
+[24Jan2025 14:09:12.872] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-338, y=29, z=-589}
+[24Jan2025 14:09:12.872] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=24, z=-591}
+[24Jan2025 14:09:12.872] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=30, z=-588}
+[24Jan2025 14:09:12.872] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-336, y=29, z=-593}
+[24Jan2025 14:09:12.872] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-334, y=30, z=-591}
+[24Jan2025 14:09:12.873] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-336, y=29, z=-589}
+[24Jan2025 14:09:12.873] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-590}
+[24Jan2025 14:09:12.873] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-591}
+[24Jan2025 14:09:12.873] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-592}
+[24Jan2025 14:09:12.873] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=24, z=-591}
+[24Jan2025 14:09:13.261] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[24Jan2025 14:09:13.261] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[24Jan2025 14:09:28.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX has made the advancement [Quite the Renovation]
+[24Jan2025 14:09:29.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX has made the advancement [Where Is The Stone Pen?]
+[24Jan2025 14:09:34.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX has made the advancement [The Beginning of An Adventure]
+[24Jan2025 14:09:34.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX has made the advancement [Fortune Seeker]
+[24Jan2025 14:09:36.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sangredel9: Set own game mode to Survival Mode]
+[24Jan2025 14:09:54.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sangredel9: Teleported XxRTXxX to Sangredel9]
+[24Jan2025 14:10:09.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sangredel9 has made the advancement [Monster Hunter]
+[24Jan2025 14:10:49.688] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/1634, l='ServerLevel[world]', x=71.51, y=119.00, z=195.53] died, message: 'Scribe was slain by Tiger'
+[24Jan2025 14:10:51.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sangredel9: Set own game mode to Creative Mode]
+[24Jan2025 14:11:17.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sangredel9: Set own game mode to Survival Mode]
+[24Jan2025 14:11:55.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxRTXxX has reached the goal [Home Sweet Home]
+[24Jan2025 14:12:06.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sangredel9: Set own game mode to Creative Mode]
